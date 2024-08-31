@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d64b338.css",
+    "main.js": "/static/js/main.6ad7a5eb.js",
+    "static/media/yems.png": "/static/media/yems.be1892eac9f7bca4bd59.png",
+    "static/media/aushaih.png": "/static/media/aushaih.8dd5d375bd205927deae.png",
+    "static/media/shahid.png": "/static/media/shahid.799b140d75530141ab62.png",
+    "static/media/philosophygrantssa.png": "/static/media/philosophygrantssa.3d4b99fe916111860de9.png",
+    "static/media/me.png": "/static/media/me.a7f0b9061b91795f6cca.png",
+    "static/media/aushaih-helper.png": "/static/media/aushaih-helper.7ed0bf6ebf42e9c6e7ef.png",
+    "static/media/resume.pdf": "/static/media/resume.39f82dd5dde630b233a5.pdf",
+    "static/media/ams.png": "/static/media/ams.172e05e612c56b30324f.png",
+    "static/media/service-3.svg": "/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
+    "static/media/service-2.svg": "/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
+    "static/media/service-1.svg": "/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "index.html": "/index.html",
+    "main.0d64b338.css.map": "/static/css/main.0d64b338.css.map",
+    "main.6ad7a5eb.js.map": "/static/js/main.6ad7a5eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d64b338.css",
+    "static/js/main.6ad7a5eb.js"
+  ]
+}
